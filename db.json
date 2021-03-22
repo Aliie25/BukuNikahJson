@@ -1,1 +1,74 @@
-
+{
+    "kk": [
+            {
+            "id": 1,
+            "nomor_bn": "2487459", 
+            "nama_suami": "M. FATHONI",
+            "nama_istri": "SITI AISYAH",
+            "Tanggal_Menikah": "02/03/2002"
+            },
+            {
+            "id": 2,
+            "nomor_bn": "8637485", 
+            "nama_suami": "ARMAN MAULANA",
+            "nama_istri": "UMMI KULSUM",  
+            "Tanggal_Menikah": "11/05/2003"
+            },
+            {
+            "id": 3,
+            "nomor_bn": "4692738", 
+            "nama_suami": "RIFQI SAPUTRA",
+            "nama_istri": "DINDA SAFITRI",  
+            "Tanggal_Menikah": "18/07/2008"
+            },
+            {
+            "id": 4,
+            "nomor_bn": "3654986", 
+            "nama_suami": "INDRA PERMANA",
+            "nama_istri": "UNGKI APRILIA",  
+            "Tanggal_Menikah": "11/09/2005"
+            },
+            {
+            "id": 5,
+            "nomor_bn": "6745392", 
+            "nama_suami": "M. SADLI",
+            "nama_istri": "KARIMAH",  
+            "Tanggal_Menikah": "19/04/2006"
+            },
+            {
+            "id": 6,
+            "nomor_bn": "7348725", 
+            "nama_suami": "M. FIRDAUS",
+            "nama_istri": "SILVI ANINDITA",  
+            "Tanggal_Menikah": "21/06/2005"
+            },
+            {
+            "id": 7,
+            "nomor_bn": "4793573", 
+            "nama_suami": "ZULFIKAR ALI",
+            "nama_istri": "DITA FAZA",  
+            "Tanggal_Menikah": "09/08/2009"
+            },
+            {
+            "id": 8,
+            "nomor_bn": "6349826", 
+            "nama_suami": "DICQY ALFAN",
+            "nama_istri": "AMELIA IRAWATI",  
+            "Tanggal_Menikah": "17/08/2012"
+            },
+            {
+            "id": 9,
+            "nomor_bn": "9473864", 
+            "nama_suami": "AINUR RAMADHAN",
+            "nama_istri": "LITA KURNIA",  
+            "Tanggal_Menikah": "16/07/2006"
+            },
+            {
+            "id": 10,
+            "nomor_bn": "6947256", 
+            "nama_suami": "IMRON PRASETYO",
+            "nama_istri": "AINI SHOLIHAH",  
+            "Tanggal_Menikah": "18/09/2008"
+            }
+        ]
+    }
